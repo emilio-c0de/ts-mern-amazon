@@ -1,6 +1,6 @@
-#TypeScript MERN AMAZON 
+# TypeScript MERN AMAZON 
 
-##Lessons 
+## Lessons 
 
 1. Introducción 
 2. Install tools 
