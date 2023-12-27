@@ -1,6 +1,6 @@
- 
+
 import { sampleProducts } from './mocks/data'
-import {Navbar, Container, Nav, Row, Col} from 'react-bootstrap'
+import { Navbar, Container, Nav, Row, Col } from 'react-bootstrap'
 function App() {
 
   return (
@@ -17,7 +17,7 @@ function App() {
         </Navbar>
       </header>
       <main>
-       <Container className='mt-3'>
+        <Container className='mt-3'>
           <Row>
             {
               sampleProducts.map((product, index) => (
@@ -29,7 +29,7 @@ function App() {
               ))
             }
           </Row>
-       </Container>
+        </Container>
       </main>
       <footer>
         <div className="text-center">
